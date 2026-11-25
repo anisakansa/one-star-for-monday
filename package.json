@@ -1,0 +1,1 @@
+{"description":"make.fun entry: One Star for Monday — a one-star review of Monday as if it were a restaurant.","license":"MIT","name":"one-star-for-monday","scripts":{"start":"node main.ts"},"type":"module","version":"1.0.0"}
